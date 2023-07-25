@@ -8,7 +8,7 @@
 
 $(document).ready(function(){
     
-    $('.one').hide();
+    $('.one').hide(); // one it mens class
 
 });
 
