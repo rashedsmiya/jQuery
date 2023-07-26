@@ -9,7 +9,7 @@ $(document).ready(function(){
     
     // $("a[target='_blank']").remove();
 
-    $('[target="_self"]').remove();
+    $('[target!="_self"]').remove();
 
     
       
